@@ -15,4 +15,5 @@ weather-app/
 ├── index.html         # HTML file with core structure for app
 └── warsaw-example.png # Screenshot of the weather app being used
 ```
-# Note, you can get your own API Key from https://openweathermap.org/api. You can change the empty "" in the script.js file to your own API Key.
+[!NOTE]
+> You can get your own API Key from https://openweathermap.org/api. You can change the empty "" in the script.js file to your own API Key.
