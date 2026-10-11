@@ -1,6 +1,6 @@
 # Weather App
 
-<img src="warsaw-example.png" alt="Warsaw Example Image width='50%'>  
+<img src="warsaw-example.png" alt="Warsaw" Example Image width='50%'>  
 
 ## Overview
 This is a **Weather app* powered by the Open Weather API that allows you to get the current weather in different cities in the United Kingdom, United States, Germany, Poland and several other countries.
